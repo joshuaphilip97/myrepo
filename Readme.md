@@ -52,3 +52,17 @@ isEmpty()
         else {
             System.out.println("I must have missed something");
   ```
+
+  # Writing Files
+
+  Files can be classfied as:
+  * binary
+  * text 
+
+  For now, we can think about text files as sequence of characters,
+  and binary files as sequence of bytes.
+
+
+  # ToDo
+ - [ ] (before:) Read  about Enums
+ - [x] (and later:) Read  about Enums 
